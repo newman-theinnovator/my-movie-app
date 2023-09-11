@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-
+import { Switch, Route } from 'react-router-dom';
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './components/Home';
@@ -21,20 +19,7 @@ function App() {
   );
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// export default App;
+export default App;
 
 
 // function App() {
