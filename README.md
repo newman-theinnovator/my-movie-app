@@ -1,5 +1,5 @@
 # Movie Discovery App Documentation
-<img src="https://imagizer.imageshack.com/v2/613x349q70/922/fmQUDG.png" alt="my-movie-app screenshot" width="700">
+![my-movie-app screenshot](https://github.com/newman-theinnovator/my-movie-app/assets/127159946/d9451c01-b76b-4922-ab96-3894314dc1a0)
 
 
 ## Table of Contents
