@@ -1,4 +1,6 @@
 # Movie Discovery App Documentation
+![my-movie-app screenshot](https://imgur.com/a/2P0qQvq){:width="700px"}
+
 
 ## Table of Contents
 
@@ -61,7 +63,7 @@ npm start
 
 ## Demo Link
 
-[Demo Link](#)  
+[Demo Link](https://my-movie-app-delta.vercel.app/)  
 
 ---
 
