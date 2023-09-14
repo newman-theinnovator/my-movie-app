@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Navbar } from "../components/Navbar";
 import imdblogo from "../assets/imdd.svg";
-import play from "../assets/play.svg";
+import play from "../assets/Play.svg";
 import axios from "axios";
 
 export const Landing = () => {

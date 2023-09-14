@@ -1,49 +1,68 @@
-# Movie Discovery App 👨‍💻
+# Movie Discovery App Documentation
 
-A Movie Discovery App that allows users to explore a vast collection of movies, view details.
-
-## Table of Contents😎
+## Table of Contents
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the App](#running-the-app)
 - [Usage](#usage)
+- [Demo Link](#demo-link)
 
+## Prerequisites
 
-  ## Prerequisites✔
+Before you begin, make sure you meet the following requirements:
 
-Before you begin, ensure you have met the following requirements:
+- **Node.js and npm** installed on your machine.
+- An **API key** from The Movie Database (TMDb).
 
-- Node.js and npm installed on your machine.
-- An API key from [The Movie Database (TMDb)](https://www.themoviedb.org/documentation/api).
-
-  # Installation
+## Installation
 
 1. Clone the repository:
 
-   
-   git clone https://github.com/EmmaExcel/MovieDiscovery.git
-Install dependencies:
+   ```bash
+   git clone https://github.com/newman-theinnovator/my-movie-app.git
+   ```
 
-npm install
+2. Install project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Change into the project directory:
+
+   ```bash
    cd movie-discovery-app
+   ```
 
 ## Configuration
-Create a .env file in the project root.
 
-Add your TMDb API key:
+1. Create a `.env` file in the project root.
 
-REACT_APP_TMDB_API_KEY=your-api-key
+2. Add your TMDb API key to the `.env` file:
+
+   ```env
+   REACT_APP_TMDB_API_KEY=your-api-key
+   ```
 
 ## Running the App
-To start the app, run the following command:
 
+To start the app, use the following command:
+
+```bash
 npm start
+```
 
 ## Usage
-Browse movies.
-Click on a movie to view its details, including the title, release date, and overview.
 
+1. Browse movies in the app.
+2. Click on a movie to view its details, including the title, release date, and overview.
 
 ## Demo Link
+
+[Demo Link](#)  
+
+---
+
+This documentation provides a quick overview of how to set up, configure, and use the Movie Discovery App. Be sure to replace `your-api-key` with your actual TMDb API key and provide the actual Demo Link to your deployed application.
