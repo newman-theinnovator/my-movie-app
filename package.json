@@ -13,6 +13,7 @@
     "axios": "^1.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
     "react-router-dom": "^6.15.0"
   },
   "devDependencies": {
@@ -24,5 +25,9 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/newman-theinnovator/my-movie-app.git",
+  "author": "Cerebro <newman.ukpakatheboss@gmail.com>",
+  "license": "MIT"
 }

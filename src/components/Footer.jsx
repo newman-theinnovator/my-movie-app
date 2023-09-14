@@ -19,7 +19,7 @@ export const Footer = () => {
         <p>Press Room</p>
       </div>
       <div className="copyright">
-        <p>© 2021 MovieBox by Adriana Eka Prayudha </p>
+        <p>© 2021 MovieBox by Newman Ukpaka </p>
       </div>
     </div>
   );
