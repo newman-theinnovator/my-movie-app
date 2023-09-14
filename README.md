@@ -1,5 +1,4 @@
 # Movie Discovery App Documentation
-![my-movie-app screenshot](https://imgur.com/a/2P0qQvq)
 <img src="https://imgur.com/a/2P0qQvq" alt="my-movie-app screenshot" width="700">
 
 
