@@ -1,5 +1,5 @@
 # Movie Discovery App Documentation
-<img src="https://imgur.com/a/2P0qQvq" alt="my-movie-app screenshot" width="700">
+<img src="https://imagizer.imageshack.com/v2/613x349q70/922/fmQUDG.png" alt="my-movie-app screenshot" width="700">
 
 
 ## Table of Contents
